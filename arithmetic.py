@@ -84,4 +84,17 @@ print(f"{firstNumber} ** {secondNumber} = {total:.2f}")
 
 
 
+# Floor Division
+
+print("**************")
+print("Floor Division")
+print("**************")
+print("Enter two numbers to perform exponential operation on")
+firstNumber = int(input("Enter first number: "))
+secondNumber = int(input("Enter second number: "))
+
+total = firstNumber // secondNumber
+
+print(f"{firstNumber} // {secondNumber} = {total:.2f}")
+
 
