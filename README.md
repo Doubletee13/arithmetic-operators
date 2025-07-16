@@ -1,9 +1,4 @@
-### BASIC CALCULATOR
 
-In the script file, i created a variables that takes in two numbers and perform arithmetic operations on them then give out output of the reuslt to the user
-The variable are dynamic and can take any number from the user to perform this operations and the operations are as follows:
-
-## ARITHMETIC OPERATIONS
 # BASIC CALCULATOR
 >By *Akinlade Temitope Victory*
 
